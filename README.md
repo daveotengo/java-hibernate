@@ -1,2 +1,2 @@
 # java-hibernate
-Api that connect to database using hibernate
+Crud Api that connect to mysql database using hibernate
